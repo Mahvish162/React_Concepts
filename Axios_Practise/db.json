@@ -1,0 +1,64 @@
+{
+  "employee": [
+    {
+      "id": "d6e9",
+      "empName": "Mahvish Fatima",
+      "empJobRole": "React Developer",
+      "empJobLoc": "Pune"
+    },
+    {
+      "id": "3b30",
+      "empName": "m",
+      "empJobRole": "Front End Developer",
+      "empJobLoc": "Delhi"
+    },
+    {
+      "id": "4473",
+      "empName": "zikra",
+      "empJobRole": "Front End Developer",
+      "empJobLoc": "Mumbai"
+    },
+    {
+      "id": "789c",
+      "empName": "iqra",
+      "empJobRole": "React Developer",
+      "empJobLoc": ""
+    },
+    {
+      "id": "aecc",
+      "empName": "a",
+      "empJobRole": "",
+      "empJobLoc": ""
+    },
+    {
+      "id": "1727",
+      "empName": "Mahvish fatima",
+      "empJobRole": "",
+      "empJobLoc": ""
+    },
+    {
+      "id": "efc2",
+      "empName": "Mahvish fatima",
+      "empJobRole": "React Developer",
+      "empJobLoc": "Pune"
+    },
+    {
+      "id": "66b0",
+      "empName": "",
+      "empJobRole": "",
+      "empJobLoc": ""
+    },
+    {
+      "id": "50e0",
+      "empName": "Mahvish Fatima",
+      "empJobRole": "React Developer",
+      "empJobLoc": "Pune"
+    },
+    {
+      "id": "00ac",
+      "empName": "Mahvish Fatima",
+      "empJobRole": "React Developer",
+      "empJobLoc": "Pune"
+    }
+  ]
+}
