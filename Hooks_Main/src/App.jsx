@@ -7,6 +7,7 @@ import UseEffect1 from './components/useEffect/UseEffect1'
 import UseEffect2 from './components/useEffect/UseEffect2';
 import UseEffect3 from './components/useEffect/UseEffect3';
 import UseRef1 from './components/useRef/UseRef1';
+import UseEffect4 from './components/useEffect/UseEffect4';
 
 const App = () => {
   return (
@@ -18,7 +19,8 @@ const App = () => {
       {/* <UseEffect1/> */}
      {/* < UseEffect2/> */}
      {/* <UseEffect3/> */}
-     <UseRef1/>
+     {/* <UseRef1/> */}
+     <UseEffect4/>
     </div>
   )
 }
