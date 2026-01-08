@@ -29,7 +29,6 @@ const ViewStudent = () => {
     .catch((err)=>console.log(err))
   }
 
-
   return (
     <>
       <center>

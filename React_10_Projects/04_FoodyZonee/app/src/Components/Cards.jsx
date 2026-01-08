@@ -1,7 +1,7 @@
 
 const Cards = ({ data }) => {
 
-    return (
+    return ( 
         <div className='grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 gap-6 mt-6 place-items-center'>
             {data.map((elem) => {
                 return <div className="text-white w-full max-w-[420px] flex justify-between align-middle p-1.5 rounded-4xl backdrop-blur-md border border-white/20 bg-white/7 shadow-lg">

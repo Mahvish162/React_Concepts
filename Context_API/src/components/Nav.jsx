@@ -10,13 +10,12 @@ const Nav = (props) => {
 
     return (
     <div className='navbar'>
-
+ 
       <div className="nav">
        <h2>Sheriyans</h2> 
         <h2>{data}</h2>
         {/* {props.children[0]} */}
         {/* {props.children[1]} */}
-
 
         <Nav2 theme={props.theme}/>
       </div>

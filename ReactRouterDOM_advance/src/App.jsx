@@ -19,7 +19,7 @@ const App = () => {
 
       <Nav />
       <NavigationButtons />
-
+        
       <Routes>
 
         <Route path='/' element={<Home />} />
@@ -27,6 +27,7 @@ const App = () => {
         <Route path='/about' element={<About />} />
 
         <Route path='/courses' element={<Courses />} />
+        
         <Route path='/courses/:id' element={<CourseDetails />} />
 
         <Route path='/product' element={<Product />}>

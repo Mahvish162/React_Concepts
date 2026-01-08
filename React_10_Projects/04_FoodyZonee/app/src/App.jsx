@@ -22,6 +22,7 @@ const App = () => {
     getData()
   }, [])
 
+  
   // 🔥 FILTER LOGIC
   const filteredData = data.filter((item) => {
 
@@ -44,12 +45,14 @@ const App = () => {
     // ✅ Final decision
     if (matchesSearch && matchesCategory) {
       return true;
-    } else {
+    } else { 
       return false;
     }
   });
 
-  return (
+console.log("filtered data",filteredData)
+  
+return (
     <div className='flex flex-col h-screen w-screen m-0'>
       <TopSection search={search} setSearch={setSearch} setCategory={setCategory} />
       <BottomSection data={filteredData} />

@@ -5,8 +5,6 @@ const NavigationButtons = () => {
 
     const Navigate=useNavigate()
 
-
-
   return (
     <div className='bg-blue-800 w-full flex gap-5 p-5'>
 

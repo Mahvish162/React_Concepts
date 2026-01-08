@@ -5,13 +5,14 @@ import StyledComponent from './components/StyledComponent'
 
 const App = () => {
 
-  let ModifiedMessage=StyledComponent(Message)
-  let ModifiedNotification=StyledComponent(Notification)
+  let ModifiedMsg = StyledComponent(Message)
+  let ModifiedNtf = StyledComponent(Notification)
 
   return (
     <div>
-      <ModifiedMessage/>
-      <ModifiedNotification/>
+      <ModifiedMsg />
+      <ModifiedNtf />
+      <Message />
     </div>
   )
 }

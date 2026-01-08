@@ -2,10 +2,9 @@ import React, { createContext } from 'react'
 
 export const ThemeDataContext = createContext()
 
-
 const ThemeContext = (props) => {
 
-    return (
+    return ( 
         <div>
             <ThemeDataContext.Provider value="mahvish">
                 {props.children}

@@ -5,7 +5,7 @@ const MainText = () => {
         <div className='w-[40%]'>
             <h1 className='uppercase text-7xl font-extrabold '>Your feet deserve the best</h1>
 
-            <h3 className='uppercase pt-8 pr-30 font-bold tracking-wider'>YOUR FEET DESERVES THE Best and we are here to help you with our shoes. your feet deserve the best and we are here to help you with our shoes </h3>
+            <h3 className='uppercase pt-8 pr-30 font-bold tracking-wider'>YOUR FEET DESERVES THE Best and we are here to help you with our shoes. your feet deserve the best and we are here to help you with our shoes</h3>
 
             <div className='pt-6 flex gap-10'>
                 <button className='border-2 border-red-500 bg-red-500 text-white p-2'>Shop Now</button>

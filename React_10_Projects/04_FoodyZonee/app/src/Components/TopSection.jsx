@@ -3,7 +3,7 @@ const TopSection = ({ search, setSearch, setCategory }) => {
     return (
         <div className='bg-[#323334] p-3'>
 
-            <div className="TopFirst flex flex-col sm:flex-row justify-center items-center sm:justify-between pl-4 pr-4 gap-5">
+             <div className="TopFirst flex flex-col sm:flex-row justify-center items-center sm:justify-between pl-4 pr-4 gap-5">
 
                 <h1 className='text-5xl font-bold text-white'>F<span className="text-red-500">oo</span>dyZ<span className="text-red-500">o</span>ne</h1>
 

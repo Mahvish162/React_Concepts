@@ -8,7 +8,6 @@ import { MdOutlineDeleteForever } from "react-icons/md";
 import { RiCheckboxCircleLine } from "react-icons/ri";
 import { RiCheckboxBlankCircleLine } from "react-icons/ri";
 
-
 const Card = () => {
 
     const [task, setTask] = useState("");
